@@ -1,29 +1,34 @@
-## Bem-vindo(a) ao perfil de Adriano-vinicius 😁
+## Adriano Vinicius
 
- <div>
-   <a href="https://github.com/Adriano-vinicius">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Adriano-vinicius&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Adriano-vinicius&layout=compact&langs_count=6&theme=tokyonight"/>
+- 📚 Estudante e entusiasta de tecnologia
+- 🤖 Robótica móvel na WorldSkills
+- 👨🏻‍💻 Desenvolvedor Kotlin e HTML
+- 🧐 Aberto a novas oportunidades e experiências
+- 📌 Pernambuco, Brazil
 
+<div style="display: inline_block">
+  <h2>Skills 💻</h2>
+  <img align="center" alt="kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
+  <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
 </div>
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg ">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg ">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg ">
-</div>
- 
- <br>
- 
-  ### Para mais conteúdo sobre programação, me segue nas redes abaixo!
- 
-<div>
-  <a 
-href="" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the- badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the- badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo= discord&logoColor=white" target="_blank"></a>
-  <a href = ""><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" alvo ="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style= for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
- 
-  ![Animação de cobra](https://github.com/Adriano-vinicius/Adriano-vinicius/blob/output/github-contribution-grid-snake.svg)
 
+<div style="display: inline_block">
+  <h2>Tools ⚙️</h2>
+  <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
+  <img align="center" alt="intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
 </div>
+
+## Estatística 📈
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO_GITHUB&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO_GITHUB&layout=compact&theme=tokyonight)
+
+## Contatos ✉️
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adriano-vinícius-b24737235)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:viniciusadriano881@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/adrianovsx?igsh=MTU4OTdlbXFhMndhZA==)
+
+<picture align="center">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
+  <img align="center" alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Joaoopeedro/Joaoopeedro/output/github-contribution-grid-snake.svg">
+</picture>
