@@ -10,13 +10,13 @@
   <h2>Skills 💻</h2>
   <img align="center" alt="kotlin" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg">
   <img align="center" alt="html" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
 </div>
 
 <div style="display: inline_block">
   <h2>Tools ⚙️</h2>
   <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
-  <img align="center" alt="intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/git/git-plain.svg">
    <img align="center" alt="intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original.svg">
 </div>
 
