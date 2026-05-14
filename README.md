@@ -16,6 +16,7 @@
   <h2>Tools ⚙️</h2>
   <img align="center" alt="vscode" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/vscode/vscode-original.svg">
   <img align="center" alt="intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/intellij/intellij-original.svg">
+    <img align="center" alt="intellij" height="30" width="40" src="https://github.com/devicons/devicon/blob/master/icons/arduino/arduino-original-wordmark.svg">
 </div>
 
 ## Estatística 📈
